@@ -1,0 +1,3 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/knoldus/Sh/src/test/resources/schema.sql,/home/knoldus/Sh/target/scala-2.12/test-classes/schema.sql)[0m
+[0m[[0mdebug[0m] [0m	(/home/knoldus/Sh/src/test/resources/initialdata.sql,/home/knoldus/Sh/target/scala-2.12/test-classes/initialdata.sql)[0m

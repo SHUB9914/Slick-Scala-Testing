@@ -1,0 +1,11 @@
+[0m[[0minfo[0m] [0m[32mDependentTesting:[0m[0m
+[0m[[0minfo[0m] [0m[32m- inserting the  data[0m[0m
+[0m[[0minfo[0m] [0m[32m- delete the  data[0m[0m
+[0m[[0minfo[0m] [0m[32m- update name[0m[0m
+[0m[[0minfo[0m] [0m[32m- test and then[0m[0m
+[0m[[0minfo[0m] [0m[32m- min age[0m[0m
+[0m[[0minfo[0m] [0m[32m- max age[0m[0m
+[0m[[0minfo[0m] [0m[32m- search by id[0m[0m
+[0m[[0minfo[0m] [0m[32m- test union [0m[0m
+[0m[[0minfo[0m] [0m[32m- join on employee table and dependent table on basis of id[0m[0m
+[0m[[0minfo[0m] [0m[32m- test plain sql[0m[0m
